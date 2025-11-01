@@ -35,7 +35,7 @@ This project focuses on mastering layout techniques, reusable components, and pi
 ### 🚀 How to View
 
 You can check out the live version here (if hosted on GitHub Pages):
-👉 [https://<your-username>.github.io/AmazonClone](https://<your-username>.github.io/AmazonClone)
+👉 https://github.com/AkashWarkhad/AmazonClone
 
 Or clone locally:
 
